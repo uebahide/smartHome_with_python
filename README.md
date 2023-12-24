@@ -1,0 +1,3 @@
+-go to /smartHome 
+-excecute $python main.py
+-GUI application will start.
